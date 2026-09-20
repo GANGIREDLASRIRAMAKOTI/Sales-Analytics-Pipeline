@@ -30,7 +30,6 @@ Raw CSV -> AWS S3 (Raw Layer) -> AWS Glue (PySpark ETL) -> S3 (Processed) -> Ath
 3. Run `glue_job.py`
 
 ## 🔗 Links
-- Live Dashboard Screenshot: [Add your screenshot here]
-- LinkedIn: [Your LinkedIn]
+- LinkedIn:www.linkedin.com/in/gangiredlasriramakoti
 
 Built by Sriramakoti - Aspiring Data Engineer
