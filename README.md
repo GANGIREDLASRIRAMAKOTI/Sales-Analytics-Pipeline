@@ -30,6 +30,7 @@ Raw CSV -> AWS S3 (Raw Layer) -> AWS Glue (PySpark ETL) -> S3 (Processed) -> Ath
 3. Run `glue_job.py`
 
 ## 🔗 Links
+- Sales Analytics Data Pipeline Dashboard link "https://ap-southeast-2.quicksight.aws.amazon.com/sn/account/gangiredlasriramakotiAWS/dashboards/9142ea2f-3c22-4ff4-8cab-ccf35d1951cf"
 - LinkedIn:www.linkedin.com/in/gangiredlasriramakoti
 
 Built by Sriramakoti - Aspiring Data Engineer
